@@ -1,0 +1,39 @@
+C:\Users\epineda\Documents\GitHub\Guia_1\Guia_1\bin\Debug\Guia_1.exe.config
+C:\Users\epineda\Documents\GitHub\Guia_1\Guia_1\obj\Debug\Guia_1.csprojResolveAssemblyReference.cache
+C:\Users\epineda\Documents\GitHub\Guia_1\Guia_1\obj\Debug\Guia_1.MDIParent1.resources
+C:\Users\epineda\Documents\GitHub\Guia_1\Guia_1\obj\Debug\Guia_1.Properties.Resources.resources
+C:\Users\epineda\Documents\GitHub\Guia_1\Guia_1\obj\Debug\Guia_1.Suma.resources
+C:\Users\epineda\Documents\GitHub\Guia_1\Guia_1\obj\Debug\Guia_1.csproj.GenerateResource.Cache
+C:\Users\epineda\Documents\GitHub\Guia_1\Guia_1\bin\Debug\Guia_1.exe
+C:\Users\epineda\Documents\GitHub\Guia_1\Guia_1\bin\Debug\Guia_1.pdb
+C:\Users\epineda\Documents\GitHub\Guia_1\Guia_1\obj\Debug\Guia_1.exe
+C:\Users\epineda\Documents\GitHub\Guia_1\Guia_1\obj\Debug\Guia_1.pdb
+C:\Users\epineda\Documents\GitHub\Guia_1\Guia_1\obj\Debug\Guia_1.Login.resources
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\bin\Debug\Guia_1.exe.config
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\obj\Debug\Guia_1.exe
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\obj\Debug\Guia_1.pdb
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\bin\Debug\Guia_1.exe
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\bin\Debug\Guia_1.pdb
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\obj\Debug\Guia_1.csprojResolveAssemblyReference.cache
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\obj\Debug\Guia_1.Costos.resources
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\obj\Debug\Guia_1.Login.resources
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\obj\Debug\Guia_1.MDIParent1.resources
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\obj\Debug\Guia_1.Properties.Resources.resources
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\obj\Debug\Guia_1.Suma.resources
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\obj\Debug\Guia_1.csproj.GenerateResource.Cache
+C:\Users\epineda\Documents\GitHub\Guia_1_Unidad_3\Guia_1\obj\Debug\Guia_1.Suma1.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\bin\Debug\Guia_1.exe.config
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\bin\Debug\Guia_1.exe
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\bin\Debug\Guia_1.pdb
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.csprojAssemblyReference.cache
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.Costos.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.formdll.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.Login.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.MDIParent1.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.Properties.Resources.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.Suma.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.Suma1.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.csproj.GenerateResource.cache
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.csproj.CoreCompileInputs.cache
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.exe
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia_1\obj\Debug\Guia_1.pdb

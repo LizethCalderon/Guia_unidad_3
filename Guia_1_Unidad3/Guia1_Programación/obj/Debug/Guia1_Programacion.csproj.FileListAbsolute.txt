@@ -1,0 +1,15 @@
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\bin\Debug\Guia_1.exe.config
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\bin\Debug\Guia_1.exe
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\bin\Debug\Guia_1.pdb
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia1_Programacion.csprojAssemblyReference.cache
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia_1.Costos.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia_1.formdll.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia_1.Login.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia_1.MDIParent1.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia_1.Properties.Resources.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia_1.Suma.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia_1.Suma1.resources
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia1_Programacion.csproj.GenerateResource.cache
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia1_Programacion.csproj.CoreCompileInputs.cache
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia_1.exe
+C:\Users\lizet\Downloads\Nueva carpeta\Guia_1_Unidad_3-master\Guia1_Programación\obj\Debug\Guia_1.pdb
